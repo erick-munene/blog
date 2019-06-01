@@ -21,7 +21,7 @@ post_limit: 5
 <link rel="stylesheet" href="{{ "/main.css, " | prepend: site.baseurl }}">
 
 # Social usernames/URLs
-twitter_link: https://twitter.com/ErickMunene6
+twitter_username: erickMunene6_
 github_username:  erick-munene
 instagram_username: 
 reddit_username: 
