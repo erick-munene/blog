@@ -1,31 +1,39 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
-description: "A dark blog theme for Jekyll."
-baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title: "ERICK MUNENE"
+email: info@erick-munene.tech
+
+# Name of your site (displayed in the header)
+name: ERICK MUNENE
+
+description: "Am a Graphics and Web Developer."
+baseurl: "/nw_blog"
+url: "http://erick-munene.github.io/nw_blog"
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+
+title_description: "A Tech blog bringing info to the tech community."
+title_image: "https://avatars1.githubusercontent.com/u/17541599?s=460&v=4"
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
-addthis_id: ra-513c6fa83da6ec67
+disqus_account: erick-munene
+github: erick-munene
+addthis_id: 
 post_limit: 5
 
+<link rel="stylesheet" href="{{ "/main.css, " | prepend: site.baseurl }}">
+
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
+twitter_link: https://twitter.com/ErickMunene6
+github_username:  erick-munene
 instagram_username: 
 reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin: erick-munene-296ab764
+google_plus_link: 
+stackoverflow: users/6217976/erick-munene # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 xing_link:
-facebook_link:
+facebook_link: https://web.facebook.com/erick.wahome
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/ErickMunene6">Erick Munene</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/erick-munene\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
