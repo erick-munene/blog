@@ -6,6 +6,7 @@ title: Next Generation CPU
 ---
 # AMD Ryzen Desktop 3000
 ![Ryzen 3000 CPU](/images/ryzen-3.jpg "Ryzen 3000")
+<img src="{{site.baseurl}}/images/ryzen-3.jpg">
 
 AMD announced its Q1 2019 results and the results highlight how much the company’s position has improved since it launched Ryzen back in February 2017.It is over this period that we have seen Intel get competition and almost bowing to AMD. 
 
