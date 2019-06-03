@@ -5,7 +5,7 @@ title: Next Generation CPU
 
 ---
 # AMD Ryzen Desktop 3000
-![Ryzen 3000 CPU](https://drive.google.com/open?id=1rtDlLqBpUrV-yN9vFRIjLxJKFLTjW6N6)
+![Ryzen 3000 CPU](/assets/images/ryzen-3.jpg "Ryzen 3000")
 
 AMD announced its Q1 2019 results and the results highlight how much the company’s position has improved since it launched Ryzen back in February 2017.It is over this period that we have seen Intel get competition and almost bowing to AMD. 
 
@@ -15,7 +15,7 @@ AMD CEO Lisa Su introduced the company's third-generation Ryzen CPUs, which are 
 They new Ryzen processors also feature lager cache sizes and a redesigned floating point engine. With support for PCIe 4.0, it supports most advanced motherboards, graphics, and storage technologies available 32Gbps.
 
 ## Ryzen 3000 Pricing
-![Ryzen 3000 CPU](https://drive.google.com/open?id=1my2bR401LLWFMBJ6x9Gm6GDvxE1pkasS)
+![Ryzen 3000 CPU](/assets/images/computex2019.jpg "Ryzen 3000 Performance")
 
 
 
