@@ -6,8 +6,8 @@ email: info@erick-munene.tech
 name: ERICK MUNENE
 
 description: "Am a Graphics and Web Developer."
-baseurl: "/nw_blog"
-url: "http://erick-munene.github.io/nw_blog"
+baseurl: "/blog"
+url: "http://erick-munene.github.io/blog"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 
 title_description: "A Tech blog bringing info to the tech community."
