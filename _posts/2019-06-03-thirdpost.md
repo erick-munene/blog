@@ -4,6 +4,8 @@ layout: post
 title: Next Generation CPU
 
 ---
+<a href="{{ site.baseurl }}/images/computex2019.jpg">Years</a>
+
 # AMD Ryzen Desktop 3000
 ![Ryzen 3000 CPU](/images/ryzen-3.jpg "Ryzen 3000")
 
